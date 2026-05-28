@@ -13,7 +13,7 @@ Let's be real — you're not here for "authorized testing." You're here because 
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/kaboom.git
+git clone https://github.com/5h3rd1l/kaboom.git
 cd kaboom
 pip install -r requirements.txt
 python3 core.py
