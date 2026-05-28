@@ -226,6 +226,6 @@ Minimal result fields:
 
 Use `reason` for human-readable failure or rate-limit details.
 
-# Inspired by
+## Inspired by
 
 This project was inspired by OTP Bomber by Ashar Khalil. KABOOM is simply an extension of that concept, adding a few quality-of-life improvements like a terminal UI, concurrent execution, proxy rotation, repeat rounds, and broader module support. The original did the heavy lifting; this just tries to make it a little more flexible. Credit where it's due.
