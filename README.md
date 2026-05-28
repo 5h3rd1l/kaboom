@@ -10,6 +10,15 @@ Use it only for authorized testing, diagnostics, and rate-limit verification on 
 
 Let's be real — you're not here for "authorized testing." You're here because some spammer, scammer, or ex-friend needs to learn a lesson. One round. Fifteen modules. Hundreds of OTPs. Their phone buzzing nonstop for ten minutes. That's not a test. That's KABOOM.
 
+## Quick Start
+
+```bash
+git clone https://github.com/yourusername/kaboom.git
+cd kaboom
+pip install -r requirements.txt
+python3 core.py
+```
+
 ## Features
 
 - Interactive terminal UI for selecting phone numbers, modules, proxy setup, and
